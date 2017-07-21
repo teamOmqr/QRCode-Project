@@ -21,7 +21,7 @@ Crack the Door is the application module which is used to improve the entrance t
 - Now import all the Modules necessary from the list given below .
      - Go to Command Prompt
      - execute command on console:      
-                 PIP install module_name(listed below).
+                > PIP install module_name(listed below).
 - and then Simply execute the code.
 
 ## Modules
