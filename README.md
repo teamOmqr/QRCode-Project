@@ -8,13 +8,13 @@ Crack the Door is the application module which is used to improve the entrance t
 - Data analysis tool will provide graphical analysis using several comparisons graph for more future improvement like collecting and scrutinizing every data for better business investments. 
 
 ## Prerequisites
-Requirements for running the code:
+> **Requirements for running the code:**
 - Operating System ( Windows/Linux)
 - Python 2.7 ( https://www.python.org/ftp/python/2.7.13/python-2.7.13.msi )
 - Microsoft Excel ( To view the Database manually )
 - IDE ( ECLIPSE/PYCHARM recommended ) / COMMAND PROMPT  ( https://www.jetbrains.com/pycharm/ )
 
-HOW TO RUN CODE:
+> **HOW TO RUN CODE:**
 - Install the python 2.7 from the above link specified
 - Install the IDE or run on command prompt.
 - Import the source code to the IDE.
@@ -54,7 +54,7 @@ src/database/input_data.csv - contains all of the email addresses and qrcode has
 - Excel ( Database Management System can change in future )
 
 ## Version
-Crack-the-door version 1.0 ( Basic module Application )
+Crack-the-door > Version 1.0 ( Basic module Application )
 
 ## Authors- TEAM OM
 - Ankit Shukla
