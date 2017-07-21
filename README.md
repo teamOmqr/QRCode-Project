@@ -42,6 +42,7 @@ HOW TO RUN CODE:
 # No Prompt
 STEP 1:
 - If finding any difficulties above, simply download the crack-the-door .EXE files from this website.
+
 STEP 2:
 - Run the .exe files for the corresponding operations such as generating QR code, Scanning QR code and Data Analysis Tools.
 
@@ -58,8 +59,8 @@ Crack-the-door version 1.0 ( Basic module Application )
 # Authors- TEAM OM
 - Ankit Shukla
 - Abhishek Jindal
-- Aekanshu Panchal
 - Keshav Khetan
+- Aekanshu Panchal 
 
 # TO-DO:
 - Interface is ugly, first basic module, will make nicer in next release of module.
