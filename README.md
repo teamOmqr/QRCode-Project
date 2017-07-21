@@ -8,4 +8,4 @@ Crack the Door is the application module which is used to improve the entrance t
  
 - In addition to this prototype module, our team has made a mechanism by which entrance  gates will be automated, visitors only have to make sure that their QR codes get scanned  and it helps to reduce the man power at the entrance.
 
--This mechanism works in such a way that whenever the QR code will get scanned, the entrance gate will open and infrared sensors at the entrance will scan and allow the number of visitors mentioned at the time of booking for a particular ticket.
+- This mechanism works in such a way that whenever the QR code will get scanned, the entrance gate will open and infrared sensors at the entrance will scan and allow the number of visitors mentioned at the time of booking for a particular ticket.
