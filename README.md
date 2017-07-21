@@ -12,14 +12,16 @@ Crack the Door is the application module which is used to improve the entrance t
 - Operating System ( Windows/Linux)
 - Python 2.7 ( https://www.python.org/ftp/python/2.7.13/python-2.7.13.msi )
 - Microsoft Excel ( To view the Database manually )
-- IDE ( ECLIPSE/PYCHARM recommended ) / COMMAND PROMPT  ( https://www.jetbrains.com/pycharm/ )
+- IDE ( ECLIPSE/PYCHARM recommended ) -( https://www.jetbrains.com/pycharm/ )/ COMMAND PROMPT 
 
 > **HOW TO RUN CODE:**
 - Install the python 2.7 from the above link specified
 - Install the IDE or run on command prompt.
 - Import the source code to the IDE.
-- Now import all the Modules necessary from the list given below in IDE.
-     - Go to files -> select settings --> select project Interpreter --> At right side, click the plus icon to import modules.
+- Now import all the Modules necessary from the list given below .
+     - Go to Command Prompt
+     - exectute command on console:      
+                 PIP install module_name(listed below).
 - and then Simply execute the code.
 
 ## Modules
