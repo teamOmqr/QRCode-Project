@@ -56,7 +56,7 @@ src/database/input_data.csv - contains all of the email addresses and qrcode has
 - Excel ( Database Management System can change in future )
 
 ## Version
-Crack-the-door **Version 1.0 **( Basic module Application )
+Crack-the-door -> Version 1.0 ( Basic module Application )
 
 ## Authors- TEAM OM
 - Ankit Shukla
