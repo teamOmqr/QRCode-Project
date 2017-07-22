@@ -68,7 +68,7 @@ Crack-the-door -> Version 1.0 ( Basic module Application )
 - While booking we will consider the verified government idea for the purpose for security and authentication.
 - More refined analysis of data would be possible for better predictions.
 - Automation of the Entrances.
-- Basic 
+- Django framework will be implemented for creating web interface for booking system as python files will be integrated to the web application with the help of this framework.
 
 
 
