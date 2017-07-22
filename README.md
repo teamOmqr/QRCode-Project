@@ -43,13 +43,6 @@ Crack the Door is the application module which is used to improve the entrance t
 - email
 - qrtools
 
-## No Prompt
-
-- If finding any difficulties above, simply check the crack-the-door .EXE basic file (generating QR code) from the github folder itself named.( for demo purpose only)
-
-## Basic structure
-src/database/input_data.csv - contains all of the email addresses and qrcode hash codes - contains those that have already registered.
-
 ## Built With
 - Python
 - Excel ( Database Management System can change in future )
@@ -68,7 +61,7 @@ Crack-the-door -> Version 1.0 ( Basic module Application )
 - While booking we will consider the verified government idea for the purpose for security and authentication.
 - More refined analysis of data would be possible for better predictions.
 - Automation of the Entrances.
-- Django framework will be implemented for creating web interface for booking system as python files will be integrated to the web application with the help of this framework.
+- Django framework will be implemented for creating web interface for booking system as python files will be integrated to the web     application with the help of this framework.
 
 
 
