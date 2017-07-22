@@ -10,11 +10,12 @@ Crack the Door is the application module which is used to improve the entrance t
 ## Prerequisites
 > **Requirements for running the code:**
 - Operating System ( Windows/Linux)
+
 - Python 2.7 ( https://www.python.org/ftp/python/2.7.13/python-2.7.13.msi )
 - Microsoft Excel ( To view the Database manually )
 - IDE ( ECLIPSE/PYCHARM recommended ) -( https://www.jetbrains.com/pycharm/ )/ COMMAND PROMPT 
 
-> **HOW TO RUN CODE:**
+> **INSTALLATION:**
 - Install the python 2.7 from the above link specified
 - Install the IDE or run on command prompt.
 - Import the source code to the IDE.
@@ -22,6 +23,7 @@ Crack the Door is the application module which is used to improve the entrance t
      - Go to Command Prompt
      - execute command on console:      
                 > PIP install module_name(listed below).
+ > NOTE: Sometimes z-bar module installation on decode.py source code file doesnot support on windows. If finding any problem, go with the linux platform.
 - and then Simply execute the code.
 
 ## Modules
@@ -42,11 +44,8 @@ Crack the Door is the application module which is used to improve the entrance t
 - qrtools
 
 ## No Prompt
-**STEP 1:**
-- If finding any difficulties above, simply download the crack-the-door .EXE files from this website.
 
-**STEP 2:**
-- Run the .exe files for the corresponding operations such as generating QR code, Scanning QR code and Data Analysis Tools.
+- If finding any difficulties above, simply check the crack-the-door .EXE basic file (generating QR code) from the github folder itself named.( for demo purpose only)
 
 ## Basic structure
 src/database/input_data.csv - contains all of the email addresses and qrcode hash codes - contains those that have already registered.
@@ -69,6 +68,7 @@ Crack-the-door -> Version 1.0 ( Basic module Application )
 - While booking we will consider the verified government idea for the purpose for security and authentication.
 - More refined analysis of data would be possible for better predictions.
 - Automation of the Entrances.
+- Basic 
 
 
 
